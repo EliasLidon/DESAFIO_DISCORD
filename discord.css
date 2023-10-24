@@ -1,18 +1,18 @@
 @font-face {
     font-family: Luckiest Guy;
-    src: url(../FONT/Luckiest_Guy/LuckiestGuy-Regular.ttf);
+    src: url(FONT/Luckiest_Guy/LuckiestGuy-Regular.ttf);
 }
 @font-face {
     font-family: open-sans;
-    src: url(../FONT/open-sans/OpenSans-Regular.ttf);
+    src: url(FONT/open-sans/OpenSans-Regular.ttf);
 }
 @font-face {
     font-family: open-sans-leve;
-    src: url(../FONT/open-sans/OpenSans-Light.ttf);
+    src: url(FONT/open-sans/OpenSans-Light.ttf);
 }
 @font-face {
     font-family: open-sans-forte;
-    src: url(../FONT/open-sans/OpenSans-ExtraBold.ttf);
+    src: url(FONT/open-sans/OpenSans-ExtraBold.ttf);
 }
 *{
     margin: 0;
